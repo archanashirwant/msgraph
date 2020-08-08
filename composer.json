@@ -1,0 +1,6 @@
+{
+    "require": {
+        "microsoft/microsoft-graph": "^1.15",
+        "league/oauth2-client": "^2.5"
+    }
+}
